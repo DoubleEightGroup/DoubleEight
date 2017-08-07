@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="68660274-a303-42c8-b192-633ba3da391e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/SaoqiusFAQ.iml" afterPath="$PROJECT_DIR$/.idea/SaoqiusFAQ.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xiang" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SaoqiusFAQ/settings.py" afterPath="$PROJECT_DIR$/SaoqiusFAQ/settings.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -54,6 +52,7 @@
         <option value="$PROJECT_DIR$/SaoqiusFAQ/urls.py" />
         <option value="$PROJECT_DIR$/backend/urls.py" />
         <option value="$PROJECT_DIR$/SaoqiusFAQ/settings.py" />
+        <option value="$PROJECT_DIR$/xiang" />
       </list>
     </option>
   </component>
@@ -64,10 +63,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="width" value="950" />
+    <option name="height" value="867" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -108,11 +105,6 @@
           <expand>
             <path>
               <item name="SaoqiusFAQ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SaoqiusFAQ" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SaoqiusFAQ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SaoqiusFAQ" type="462c0819:PsiDirectoryNode" />
               <item name="SaoqiusFAQ" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -265,14 +257,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SaoqiusFAQ/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="121" column="36" lean-forward="false" selection-start-line="121" selection-start-column="36" selection-end-line="121" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SaoqiusFAQ/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
@@ -291,6 +275,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="18" column="15" lean-forward="true" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiang">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="4" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SaoqiusFAQ/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="121" column="36" lean-forward="false" selection-start-line="121" selection-start-column="36" selection-end-line="121" selection-end-column="36" />
+          <folding />
         </state>
       </provider>
     </entry>
